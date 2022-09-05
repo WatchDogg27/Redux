@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  background-color: blanchedalmond;
+}
+
+.btn {
+  margin-right: 10px;
+  padding: 5px;
+  border: none;
+  border-radius: 5px;
+
+}
+
+h2 {
+  font-size: 36px; 
+}
+
+.torso{
+
+  margin-top: 200px;
+}
